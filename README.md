@@ -1,4 +1,4 @@
-# AfterShip API PHP SDK
+# AfterShip API PHP Laravel SDK
 
 [![Build Status](https://travis-ci.org/AfterShip/aftership-sdk-php.svg?branch=master)](https://travis-ci.org/AfterShip/aftership-sdk-php)
 [![Code Climate](https://codeclimate.com/github/AfterShip/aftership-sdk-php/badges/gpa.svg)](https://codeclimate.com/github/AfterShip/aftership-sdk-php)
